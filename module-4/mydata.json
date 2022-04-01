@@ -1,0 +1,19 @@
+{
+    "people": [
+        {
+            "name": "hareesh",
+            "age": 22,
+            "id": 1
+        },
+        {
+            "name": "Sidharth",
+            "age": 23,
+            "id": 2
+        },
+        {
+            "name": "raghu",
+            "age": 26,
+            "id": 3
+        }
+    ]
+}
